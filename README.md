@@ -2,6 +2,7 @@
 Notebooks that use API's to access and NLP/LMMs to research historical newspapers
 
 *Creted by Sarah Oberbichler* (oberbichler@ieg-mainz.de)
+# Researching historical newspapers with Large Language Models (LMMs)
 
 | Title |  Go to Notebook    |
 | :---:   | :---: |
