@@ -1,7 +1,7 @@
 # Notebooks4Historical_Newspapers
-Notebooks that use API's to access and NLP/LMMs to research historical newspapers
+Notebooks that use API's to access and NLP/LLMs to research historical newspapers
 
-*Creted by Sarah Oberbichler* (oberbichler@ieg-mainz.de)
+*Created by Sarah Oberbichler* (oberbichler@ieg-mainz.de)
 
 
 | Title |  Go to Notebook    |
