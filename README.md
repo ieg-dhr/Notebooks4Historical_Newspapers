@@ -1,5 +1,5 @@
 # Notebooks4Historical_Newspapers
-Notebooks that use API's to access and LLMS for NLP tasks in historical research.
+Notebooks that use APIs to access historical newspapers and that use LLMs for NLP tasks in historical research.
 
 *Created by Sarah Oberbichler* (oberbichler@ieg-mainz.de)
 
