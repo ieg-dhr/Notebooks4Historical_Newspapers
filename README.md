@@ -7,6 +7,6 @@ Notebooks that use APIs to access historical newspapers and that use LLMs for NL
 | Title |  Go to Notebook    |
 | :---:   | :---: |
 | Researching German Historical Newspapers with Llama 3 Model - OCR Post-Correction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wg2JjNZfl1CKgdy-BXdPJPYGWYOicDNE?usp=sharing)| |
-| Researching German Historical Newspapers using the Gemini Pro Model - Article Separation |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fGS9X_AHxA1HF3VmuR9RPpVmQ13xuGcL?usp=sharing)|
+| Researching German Historical Newspapers using the Gemini Pro Model - Article Separation |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1fGS9X_AHxA1HF3VmuR9RPpVmQ13xuGcL?usp=sharing](https://colab.research.google.com/github/ieg-dhr/Notebooks4Historical_Newspapers/blob/main/Gemini.ipynb))|
 | Researching German Historical Newspapers using the OpenAi GPT4 Model and "In-Context Learning" - Event Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bXkomGL-bELTbIRuvzIzR_3ahPQrQQ86?usp=sharing)|
 | Accessing Historical Sources from the Internet Archive using the internetarchive.api   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oNkO96zzwclZT6_OKFIPfJekRBwdN3Ay?usp=sharing)| |
